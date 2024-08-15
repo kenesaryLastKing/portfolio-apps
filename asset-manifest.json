@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/portfolio-apps/static/css/main.31d6cfe0.css",
+    "main.js": "/portfolio-apps/static/js/main.9123ba1d.js",
+    "static/js/787.6658d8b7.chunk.js": "/portfolio-apps/static/js/787.6658d8b7.chunk.js",
+    "static/media/Rectangle 2.png": "/portfolio-apps/static/media/Rectangle 2.716b2cd5e3a57f7d06d7.png",
+    "static/media/girl.png": "/portfolio-apps/static/media/girl.9c1dfe2fc79ccef67569.png",
+    "static/media/blackgirl.png": "/portfolio-apps/static/media/blackgirl.8ad3a035d53bf133b63a.png",
+    "static/media/mountain.png": "/portfolio-apps/static/media/mountain.a569a8b6cde48712a42e.png",
+    "static/media/icons-sprites.svg": "/portfolio-apps/static/media/icons-sprites.b13d0d24eade06bf96361f43dec83b24.svg",
+    "static/media/log.svg": "/portfolio-apps/static/media/log.8d8abb0f4a2542ed5a79efbd7c3345e7.svg",
+    "static/media/iam1.jpg": "/portfolio-apps/static/media/iam1.80060c2d66bb8f9ffe15.jpg",
+    "static/media/location.svg": "/portfolio-apps/static/media/location.2737b38aaab6abc60f8de91bdbb4a9f8.svg",
+    "static/media/telephone (1).svg": "/portfolio-apps/static/media/telephone (1).6de1c45e9fbc56850787f3d1000fa396.svg",
+    "static/media/email.svg": "/portfolio-apps/static/media/email.641c27fb95e976ff15536ed7b135c337.svg",
+    "static/media/moon.svg": "/portfolio-apps/static/media/moon.d0422cb2b75cd79e95971bce5ae17092.svg",
+    "static/media/Figma.svg": "/portfolio-apps/static/media/Figma.e10d6b574bc65884aa312abed58a842a.svg",
+    "static/media/learning.png": "/portfolio-apps/static/media/learning.58fbe7205ba008eab231.png",
+    "static/media/Ae.svg": "/portfolio-apps/static/media/Ae.0abca9de00c1a666bce9618f2560d0db.svg",
+    "static/media/Ps.svg": "/portfolio-apps/static/media/Ps.4f61615faf2b149119f322da8115da31.svg",
+    "static/media/Ai.svg": "/portfolio-apps/static/media/Ai.cd4b114775e63b39482d8af1c74799f0.svg",
+    "index.html": "/portfolio-apps/index.html",
+    "static/media/wave.svg": "/portfolio-apps/static/media/wave.18009ac0a4b50c263f2753de5174c4af.svg",
+    "static/media/Ellipse 9.svg": "/portfolio-apps/static/media/Ellipse 9.fca32e9fb16a584e81d84af2c83ce9f3.svg",
+    "main.9123ba1d.js.map": "/portfolio-apps/static/js/main.9123ba1d.js.map",
+    "787.6658d8b7.chunk.js.map": "/portfolio-apps/static/js/787.6658d8b7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.9123ba1d.js"
+  ]
+}
